@@ -1,0 +1,2 @@
+# PodsRepoSample
+Podsプライベートリポジトリのテスト用
